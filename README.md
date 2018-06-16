@@ -3,9 +3,16 @@
 ### Visual Studio IDE Extensions
 - Enviroment
   - [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
+  - [AddNewFile](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
 
-- Refactor
+- Rvision Control
+  - [Github](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
+  
+- Refactor/Coding
   - [Code Maid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
+  - [P/Invoke](https://marketplace.visualstudio.com/items?itemName=vs-publisher-306627.PInvokenetVisualStudioExtension)
+  - [Editor Enhancements](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.EditorEnhancements)
+  - [Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
   
 - Unit Test
   - [NUnit 3 Test Adapter](https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnit3TestAdapter)
