@@ -17,6 +17,7 @@
   - [Spell Checker](https://marketplace.visualstudio.com/items?itemName=EWoodruff.VisualStudioSpellCheckerVS2017andLater)
   - [Regular Expression Tester](https://marketplace.visualstudio.com/items?itemName=AndreasAndersen.RegularExpressionTesterExtension)
   - [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
+  - [Automatic Versions 1](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
   
 - Unit Test
   - [NUnit 3 Test Adapter](https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnit3TestAdapter)
