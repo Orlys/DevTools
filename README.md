@@ -4,7 +4,7 @@
 - Enviroment
   - [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
 
-- Refector
+- Refactor
   - [Code Maid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
   
 - Unit Test
@@ -45,3 +45,6 @@
 - [Google Noto](https://www.google.com/get/noto/)
 - [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
 - [AgencyFB](http://allfont.net/download/agency-fb/)
+
+### Other
+- [Sound Switch](https://soundswitch.aaflalo.me/)
