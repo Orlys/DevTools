@@ -1,13 +1,17 @@
-### Visual Studio IDE
-#### Enviroment
-- [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
+## Dev Tools
 
-#### Refector
-- [Code Maid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
+### Visual Studio IDE Extensions
+- Enviroment
+  - [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
 
-#### Unit Test
-- [NUnit 3 Test Adapter](https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnit3TestAdapter)
-
+- Refector
+  - [Code Maid](https://marketplace.visualstudio.com/items?itemName=SteveCadwallader.CodeMaid)
+  
+- Unit Test
+  - [NUnit 3 Test Adapter](https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnit3TestAdapter)
+  
+- General Proposal
+  - ***[ReSharper](https://www.jetbrains.com/resharper/)***
 
 ### Command Line Tools
 - ***[Cmder](http://cmder.net/)***
@@ -24,7 +28,7 @@
 ### Decomplier/Disassembler/Debugger
 - ***[IDA](https://www.hex-rays.com/products/ida/support/download.shtml)***
 - ***[OllyDBG](http://www.ollydbg.de/)***
-- Supported .Net assembly only
+- *Supported .Net assembly only*
   - [JustDecompiler](https://www.telerik.com/products/decompiler.aspx)
   - [ILSpy](https://github.com/icsharpcode/ILSpy/releases)
   - ***[dnSpy](https://github.com/0xd4d/dnSpy/releases)***
@@ -32,6 +36,12 @@
 ### Packing/Unpacking/Obfuscator/Deobfuscator  
 - Free
   - [UPX](https://github.com/upx/upx/releases/)
-  - [ConfuseEx](https://github.com/yck1509/ConfuserEx)(Supported .Net assembly only)
+  - [ConfuseEx](https://github.com/yck1509/ConfuserEx) *( Supported .Net assembly only )*
+  - [DIEL](http://ntinfo.biz/index.html)
 - Not Free
   - [Themida](https://www.oreans.com/downloads.php)
+  
+### Fonts
+- [Google Noto](https://www.google.com/get/noto/)
+- [Ubuntu](https://fonts.google.com/specimen/Ubuntu)
+- [AgencyFB](http://allfont.net/download/agency-fb/)
