@@ -32,6 +32,8 @@
   - [JustDecompiler](https://www.telerik.com/products/decompiler.aspx)
   - [ILSpy](https://github.com/icsharpcode/ILSpy/releases)
   - ***[dnSpy](https://github.com/0xd4d/dnSpy/releases)***
+- [dex2jar](https://github.com/pxb1988/dex2jar)
+- [JD-GUI](https://github.com/java-decompiler/jd-gui/releases)
   
 ### Packing/Unpacking/Obfuscator/Deobfuscator  
 - Free
