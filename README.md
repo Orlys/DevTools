@@ -28,6 +28,7 @@
 ### Command Line Tools
 - ***[Cmder](http://cmder.net/)***
 - ***[Curl](https://curl.haxx.se/download.html)***
+- [Make](http://gnuwin32.sourceforge.net/packages/make.htm)
 
 ### Network
 - Analyzer
