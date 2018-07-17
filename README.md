@@ -6,7 +6,7 @@
   - [AddNewFile](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   - [.NET Compiler Platform SDK](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.NETCompilerPlatformSDK)
   
-- Rvision Control/Teamwork
+- Revision Control/Teamwork
   - [Github](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
   - [Visual Studio Live Share (Preview)](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
   
