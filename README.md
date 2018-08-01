@@ -2,6 +2,7 @@
 
 ### Visual Studio IDE Extensions
 - Enviroment
+  - [Extensibility Tools](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.ExtensibilityTools)
   - [Claudia IDE](https://marketplace.visualstudio.com/items?itemName=kbuchi.ClaudiaIDE)
   - [AddNewFile](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   - [.NET Compiler Platform SDK](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.NETCompilerPlatformSDK)
