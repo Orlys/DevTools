@@ -27,6 +27,9 @@
 - General Proposal
   - ***[ReSharper](https://www.jetbrains.com/resharper/)***
 
+### Other C# IDE
+- ***[RoslynPad](https://roslynpad.net/)***
+
 ### Command Line Tools
 - ***[Cmder](http://cmder.net/)***
 - ***[Curl](https://curl.haxx.se/download.html)***
