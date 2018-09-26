@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>foreach+dw</Title>
+			<Shortcut>foreachd</Shortcut>
+			<Description>foreach 陳述式 + Debug.WriteLine 的程式碼片段</Description>
+			<Author>Viyrex</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+      <Imports>
+        <Import>
+          <Namespace>System.Diagnostics</Namespace>
+        </Import>
+      </Imports>
+			<Declarations>
+				<Literal>
+					<ID>type</ID>
+					<ToolTip>集合中要逐一查看的物件類型</ToolTip>
+					<Default>var</Default>
+				</Literal>
+				<Literal>
+					<ID>identifier</ID>
+					<ToolTip>代表集合中元素的識別項</ToolTip>
+					<Default>item</Default>
+				</Literal>
+				<Literal>
+					<ID>collection</ID>
+					<ToolTip>要逐一查看的集合或陣列名稱</ToolTip>
+					<Default>collection</Default>
+				</Literal>
+			</Declarations>
+			<Code Language="csharp"><![CDATA[foreach ($type$ $identifier$ in $collection$)
+	{
+		Debug.WriteLine($identifier$);$selected$ $end$
+	}]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
