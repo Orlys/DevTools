@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CodeSnippets xmlns="http://schemas.microsoft.com/VisualStudio/2005/CodeSnippet">
+	<CodeSnippet Format="1.0.0">
+		<Header>
+			<Title>Singleton</Title>
+			<Shortcut>singleton</Shortcut>
+			<Description>單例類別</Description>
+			<Author>Viyrex</Author>
+			<SnippetTypes>
+				<SnippetType>Expansion</SnippetType>
+				<SnippetType>SurroundsWith</SnippetType>
+			</SnippetTypes>
+		</Header>
+		<Snippet>
+			<Declarations>
+        <Literal>
+          <ID>classname</ID>
+          <ToolTip>類別名稱</ToolTip>
+          <Default>Singleton</Default>
+        </Literal>
+        <Literal>
+          <ID>instance</ID>
+          <ToolTip>實體物件名稱</ToolTip>
+          <Default>Instance</Default>
+        </Literal>
+			</Declarations>
+			<Code Language="csharp">
+        <![CDATA[public sealed class $selected$$classname$
+    {
+        public static $classname$ $selected$$instance$
+        {
+            get
+            {
+                lock (s_locker)
+                {
+                    if (s_instance == null)
+                    {
+                        lock (s_locker)
+                        {
+                            s_instance = new $classname$();
+                        }
+                    }
+                    return s_instance;
+                }
+            }
+        }
+
+        private readonly static object s_locker = new object();
+        private static volatile $classname$ s_instance;
+
+        private $classname$()
+        {
+            $end$
+        }
+    }
+]]>
+			</Code>
+		</Snippet>
+	</CodeSnippet>
+</CodeSnippets>
