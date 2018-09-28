@@ -1,0 +1,11 @@
+E:\Repos\EnviPath.Editor\EnviPath.Editor\bin\Debug\EnviPath.Editor.exe.config
+E:\Repos\EnviPath.Editor\EnviPath.Editor\bin\Debug\EnviPath.Editor.exe
+E:\Repos\EnviPath.Editor\EnviPath.Editor\bin\Debug\EnviPath.Editor.pdb
+E:\Repos\EnviPath.Editor\EnviPath.Editor\obj\Debug\EnviPath.Editor.csprojAssemblyReference.cache
+E:\Repos\EnviPath.Editor\EnviPath.Editor\obj\Debug\EnviPath.Editor.Browser.resources
+E:\Repos\EnviPath.Editor\EnviPath.Editor\obj\Debug\EnviPath.Editor.Properties.Resources.resources
+E:\Repos\EnviPath.Editor\EnviPath.Editor\obj\Debug\EnviPath.Editor.csproj.GenerateResource.cache
+E:\Repos\EnviPath.Editor\EnviPath.Editor\obj\Debug\EnviPath.Editor.csproj.CoreCompileInputs.cache
+E:\Repos\EnviPath.Editor\EnviPath.Editor\obj\Debug\EnviPath.Editor.exe
+E:\Repos\EnviPath.Editor\EnviPath.Editor\obj\Debug\EnviPath.Editor.pdb
+E:\Repos\EnviPath.Editor\EnviPath.Editor\obj\Debug\EnviPath.Editor.Editor.resources
