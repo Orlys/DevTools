@@ -7,6 +7,7 @@
   - [AddNewFile](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.AddNewFile)
   - [.NET Compiler Platform SDK](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.NETCompilerPlatformSDK)
   - [StyleCop](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop)
+  - [ResXManager](https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager)
   
 - Revision Control/Teamwork
   - [Github](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
