@@ -9,6 +9,9 @@
   - [StyleCop](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop)
   - [ResXManager](https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager)
   
+- UI Elements/Other
+  - [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudio)
+  
 - Revision Control/Teamwork
   - [Github](https://marketplace.visualstudio.com/items?itemName=GitHub.GitHubExtensionforVisualStudio)
   - [Visual Studio Live Share (Preview)](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsls-vs)
