@@ -8,6 +8,7 @@
   - [.NET Compiler Platform SDK](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.NETCompilerPlatformSDK)
   - [StyleCop](https://marketplace.visualstudio.com/items?itemName=ChrisDahlberg.StyleCop)
   - [ResXManager](https://marketplace.visualstudio.com/items?itemName=TomEnglert.ResXManager)
+  - [FxCop(Microsoft Code Analysis)](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2017)
   
 - UI Elements/Other
   - [Avalonia](https://marketplace.visualstudio.com/items?itemName=AvaloniaTeam.AvaloniaforVisualStudio)
