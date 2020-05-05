@@ -26,15 +26,14 @@
   - [Markdown Editor](https://marketplace.visualstudio.com/items?itemName=MadsKristensen.MarkdownEditor)
   - [Automatic Versions 1](https://marketplace.visualstudio.com/items?itemName=PrecisionInfinity.AutomaticVersions)
   - [GhostDoc](https://marketplace.visualstudio.com/items?itemName=sergeb.GhostDoc)
+  - [LicenseHeaderManager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
   
 - Unit Test
   - [NUnit 3 Test Adapter](https://marketplace.visualstudio.com/items?itemName=NUnitDevelopers.NUnit3TestAdapter)
   
 - General Proposal
-  - ***[ReSharper](https://www.jetbrains.com/resharper/)***
-- License
-  - [LicenseHeaderManager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
-
+  - ***[ReSharper](https://www.jetbrains.com/resharper/)*** 
+  
 ### Other C# IDE
 - ***[RoslynPad](https://roslynpad.net/)***
 
