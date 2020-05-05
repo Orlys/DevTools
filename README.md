@@ -32,6 +32,8 @@
   
 - General Proposal
   - ***[ReSharper](https://www.jetbrains.com/resharper/)***
+- License
+  - [LicenseHeaderManager](https://marketplace.visualstudio.com/items?itemName=StefanWenig.LicenseHeaderManager)
 
 ### Other C# IDE
 - ***[RoslynPad](https://roslynpad.net/)***
